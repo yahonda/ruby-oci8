@@ -32,7 +32,7 @@ script:
 
 language: ruby
 rvm:
-  - 2.5.1
+  - 2.7.0
 
 notifications:
     email: false
